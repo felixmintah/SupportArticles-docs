@@ -47,7 +47,7 @@ Use the following procedure:
     |Microsoft SQL Server 2017 |140|
     |Microsoft SQL Server 2016|130|
     |Microsoft SQL Server 2014|120|
-    |Microsoft SQL Server 2012|100|
+    |Microsoft SQL Server 2012|110|
     |Microsoft SQL Server 2008 R2|100|
     |Microsoft SQL Server 2008|100|
     |Microsoft SQL Server 2005|90|
